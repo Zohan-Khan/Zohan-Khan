@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/02ab373b-42ff-41c0-a513-ee73c484a543)
-
 - 👋 Hi, I’m Noor-Us-sahar-Khan
 - I Tech Rizwan bhatti, he is my sir
 - 👀 I’m interested in HTML,CSS.Javascrip and Apps making...
@@ -8,6 +6,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ![image](https://github.com/user-attachments/assets/b95e3edd-ad28-48e6-bed5-a6e15c441642)
+
 
 <!---
 Noor-Us-Sahar/Noor-Us-Sahar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
