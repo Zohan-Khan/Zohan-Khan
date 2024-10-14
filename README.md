@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/41f91816-3972-4d87-b354-77ff42598e68)
+![image](https://github.com/user-attachments/assets/02ab373b-42ff-41c0-a513-ee73c484a543)
+
 - 👋 Hi, I’m Noor-Us-sahar-Khan
 - I Tech Rizwan bhatti, he is my sir
 - 👀 I’m interested in HTML,CSS.Javascrip and Apps making...
